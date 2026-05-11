@@ -37,10 +37,9 @@ Linux is very important in our work, so please take this seriously and work thro
 ### Submission
 
 Please open your **Pull Requests (PRs)** by the **14th April EOD**.(Hope you have done the GitHub well !!)
-# Modular Banking System (OOP Design)
 
-A robust, modular banking management system built using Object-Oriented Programming principles. This system models real-world banking operations, including account management, secure transactions, loan processing, and employee/branch administration.
 ## Task 3 : SmartBank Enterprise System
+
 Hey Y25s ! Hope you all did well in the OvertheWire assignment . Next Up : Working with real life applications of OOPS(Object Oriented Programming)
 
 ## Project Overview
