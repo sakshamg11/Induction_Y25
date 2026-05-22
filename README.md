@@ -261,4 +261,17 @@ The system includes custom exceptions to ensure data integrity and security:
 ##  Submission
 Fork the repository and submit your PR(Pull Requests by 19th May, EOD) .
 
+## Task 4: Assignment 4.1 (Dockerize OOPS Assignment)
+
+Hey Y25s! Now that you have completed the OOPS assignment, your next task is to learn Docker. 
+
+### Requirements
+
+*   **Dockerize** your SmartBank Enterprise System (the OOPS assignment you just completed).
+*   Create a `Dockerfile` in the root of your project.
+*   Ensure that your application can be built and run using Docker.
+
+### Submission
+
+Please open your **Pull Requests (PRs)** by the **25th May EOD**.
 
